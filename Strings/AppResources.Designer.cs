@@ -3025,7 +3025,8 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ATC Report by [{0}]\n{1}.
+        ///   Looks up a localized string similar to ATC Report by [{0}]
+        ///{1}.
         /// </summary>
         internal static string Logbook_ATCReport_Description {
             get {
@@ -4838,7 +4839,8 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Diagnostics Mode is now off, make sure you send us the log if you haven&apos;t done it yet.\nClick on the &quot;Send Log&quot; button, thanks!.
+        ///   Looks up a localized string similar to Diagnostics Mode is now off, make sure you send us the log if you haven&apos;t done it yet.
+        ///Click on the &quot;Send Log&quot; button, thanks!.
         /// </summary>
         internal static string Settings_DiagnosticsModeOff {
             get {
@@ -5045,7 +5047,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sends Position/Attitude/Traffic data to local devices running ForeFlight.
+        ///   Looks up a localized string similar to Sends Position/Attitude/Traffic data to local devices running EFBs like ForeFlight, Garmin Pilot or others..
         /// </summary>
         internal static string Settings_General_ForeFlight_Subtitle {
             get {
@@ -5054,7 +5056,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enable ForeFlight Link.
+        ///   Looks up a localized string similar to Enable EFB Link.
         /// </summary>
         internal static string Settings_General_ForeFlight_Title {
             get {
